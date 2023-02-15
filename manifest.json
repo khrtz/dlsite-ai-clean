@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "DLsite AI Clean",
+  "version": "1.0",
+  "description": "DLsiteのWebページから不要な要素を非表示にします。",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.dlsite.com/maniax/*"
+      ],
+      "js": [
+        "dlsite-ai-clean.js"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}
