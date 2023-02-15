@@ -6,7 +6,8 @@ Remove AI content
 
 ## 手順
 ### 1. 本リポジトリをzipでダウンロード、フォルダを解凍。
-![efb031d120a942969815d987d35076e2](https://user-images.githubusercontent.com/3260407/219104806-64eb2b21-639c-4f5e-9b91-b875ecdbf4da.png | width=100)
+<img src="https://user-images.githubusercontent.com/3260407/219104806-64eb2b21-639c-4f5e-9b91-b875ecdbf4da.png" width="500px">
+
 
 
 chrome://extensions/ 
@@ -15,7 +16,7 @@ chrome://extensions/
 ### 2. 表示NG設定でAI生成作品, AI一部利用にチェックを入れる。
 https://www.dlsite.com/maniax/mypage/setting/nondisp
 
-![3fc1cb06b629b84c4a5b17a8c38e9a21](https://user-images.githubusercontent.com/3260407/219104755-3b72fa6b-ea8b-4a23-9605-cbb040dc1f1b.png | width=200)
+<img src="https://user-images.githubusercontent.com/3260407/219104755-3b72fa6b-ea8b-4a23-9605-cbb040dc1f1b.png" width="500px">
 
 
 ## フィルター適用範囲
