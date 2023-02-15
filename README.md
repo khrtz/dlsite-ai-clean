@@ -18,6 +18,8 @@ https://www.dlsite.com/maniax/mypage/setting/nondisp
 
 <img src="https://user-images.githubusercontent.com/3260407/219104755-3b72fa6b-ea8b-4a23-9605-cbb040dc1f1b.png" width="500px">
 
+### 3. フィルター適用ページを読み込むと除外されています
+
 
 ## フィルター適用範囲
 - ランキングトップ
