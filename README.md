@@ -24,5 +24,7 @@ https://www.dlsite.com/maniax/mypage/setting/nondisp
 https://www.dlsite.com/maniax/ranking?date=30d
 - 各カテゴリのランキング
 https://www.dlsite.com/maniax/ranking/day?category=game&date=30d
+- 各ジャンルの検索一覧　発売日が新しい順なども
+https://www.dlsite.com/maniax/works/type/=/work_type_category/game
 
 その他のページも徐々に追加していきたいです。
