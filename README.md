@@ -1,2 +1,27 @@
 # dlsite-ai-clean
 Remove AI content
+
+## 概要
+公式で提供されている表示NG設定のみだと、サムネイルが表示されないだけの機能のため、この拡張コードで要素ごと消します。
+
+## 手順
+### 1. 本リポジトリをzipでダウンロード、フォルダを解凍。
+![efb031d120a942969815d987d35076e2](https://user-images.githubusercontent.com/3260407/219104806-64eb2b21-639c-4f5e-9b91-b875ecdbf4da.png | width=100)
+
+
+chrome://extensions/ 
+パッケージ化されていない拡張機能を読み込むで、解凍したフォルダを指定。
+
+### 2. 表示NG設定でAI生成作品, AI一部利用にチェックを入れる。
+https://www.dlsite.com/maniax/mypage/setting/nondisp
+
+![3fc1cb06b629b84c4a5b17a8c38e9a21](https://user-images.githubusercontent.com/3260407/219104755-3b72fa6b-ea8b-4a23-9605-cbb040dc1f1b.png | width=200)
+
+
+## フィルター適用範囲
+- ランキングトップ
+https://www.dlsite.com/maniax/ranking?date=30d
+- 各カテゴリのランキング
+https://www.dlsite.com/maniax/ranking/day?category=game&date=30d
+
+その他のページも徐々に追加していきたいです。
